@@ -1,0 +1,1 @@
+This is a simple app I created as a hello world for Android programming. It uses pictures, colored text, a simple calculator, interfaces with an sqlite database, and can use the maps, dialer, and email from the phone.
