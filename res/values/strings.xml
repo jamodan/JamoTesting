@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File: string.xml
+     Author: Daniel Jamison
+     Date: 29 Nov 2011
+ -->
+<resources>
+    <string name="hello">Hello World, TestAppActivity!</string>
+    <string name="app_name">Testing Application</string>
+    <string name="calculator">Calculator</string>
+    <string name="staff">Staff Search</string>
+    <string name="staff_fields">Search In:</string>
+    <string-array name="staff_fields">
+        <item>All</item>
+        <item>First Name</item>
+        <item>Last Name</item>
+        <item>Office Location</item>
+        <item>Extension</item>
+        <item>Cell Phone Number</item>
+        <item>Home Phone Number</item>
+    </string-array>
+    
+</resources>
